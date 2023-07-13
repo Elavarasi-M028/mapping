@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: white;
+   text-shadow: 3.5px 3.5px rgb(255, 0, 251);
+   
+   
+  
+}
+head{
+    text-align: center;
+    display:flex;
+}
+body {
+    text-align: center;
+    background-color: lightblue;
+    background: url("natureheidi.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: auto;
+ 
+  }
+  div {
+    width: 1010px;
+    height: 580px;
+    border: 9px solid rgb(25, 5, 245);  
+    margin: 11px;
+    margin: auto;
+  }
+  #heidi{
+    
+    margin: 0px 550px 0px 550px;
+    border-radius: 200px;
+    width: 10px;
+    height: 660px;
+    text-align: center;
+    transition: 1;
+  }
+
+  .heidi:hover{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+  }
